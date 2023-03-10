@@ -1,0 +1,164 @@
+C:\Users\thaic\Downloads\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\thaic\Downloads\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\thaic\Downloads\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Form1.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Forms.FormSanPham.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Forms.FormQLKhachhang.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Forms.FormQLNhacungcap.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Forms.FormQLNhanvien.resources
+C:\Users\thaic\Downloads\Demov1\Demov1\obj\Debug\Demov1.Forms.QLDonDatHang.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Form1.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLKhachhang.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhacungcap.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhanvien.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_SanPham.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLDonDatHang.resources
+C:\Users\Ad\OneDrive\Desktop\Quang Lê\Công nghệ phần mềm\winform\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Login.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Login.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Form1.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLKhachhang.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhacungcap.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhanvien.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_SanPham.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLDonDatHang.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\thaic\OneDrive\Máy tính\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Login.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Form1.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLKhachhang.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhacungcap.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhanvien.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_SanPham.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLDonDatHang.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\thaic\OneDrive\Máy tính\Hk1\do an cnmp\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Login.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Form1.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLKhachhang.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhacungcap.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhanvien.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_SanPham.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLDonDatHang.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\toanday\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe.config
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.exe
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Demov1.pdb
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Login.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhacungcap.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_QLNhanvien.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_SanPham.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Properties.Resources.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.GenerateResource.cache
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CoreCompileInputs.cache
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.exe
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.pdb
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.QLDonDatHang.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_DonDatHang.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\EntityFramework.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\EntityFramework.xml
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.CopyComplete
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.frm_Quanlykhachhang.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.frm_Main.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\EnvDTE.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\stdole.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\RdlCompile.cache
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\RdlCompile.compiled
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Reports.OrderReport.resources
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\bin\Debug\Reports\OrderReport.rdlc
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.csproj.AssemblyReference.cache
+C:\Users\thaic\Downloads\DemoFormMain21\DemoFormMain\Demov1\Demov1\obj\Debug\Demov1.Forms.Import.resources
